@@ -2,7 +2,7 @@
   "name": "yarra",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "julia",
+  "author": "Alberto",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",

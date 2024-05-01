@@ -6,9 +6,9 @@ POST http://localhost:7000/auth/register
 Content-Type: application/json
 
 {
-  "email": "juliaryan@y7mail.com",
-  "firstName": "Julia",
-  "lastName": "Ryan",
+  "email": "albretofrancisco@gmail.com",
+  "firstName": "Alberto",
+  "lastName": "Francisco",
   "password": "password123"
 }
 
@@ -17,7 +17,7 @@ POST http://localhost:7000/auth
 Content-Type: application/json
 
 {
-  "email": "juliaryan@y7mail.com",
+  "email": "albretofrancisco@gmail.com",
   "password": "password123"
 }
 
